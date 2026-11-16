@@ -7,7 +7,7 @@ A curated collection of Python exercises, algorithmic logic challenges, and auto
 | # | Script | Topic | Problem Summary |
 | :--- | :--- | :--- | :--- |
 | 01 | [`practice_solution.py`](./practice_solution.py) | Strings & Lists | Remove duplicate characters from a string while preserving original order. |
-
+| 02 | [`02_palindrome_checker.py`](./02_palindrome_checker.py) | String Slicing | Check whether a string reads the same forwards and backwards. |
 ---
 
 ## 🛠️ Standards & Structure
