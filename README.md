@@ -15,6 +15,7 @@ A curated collection of Python exercises, algorithmic logic challenges, and auto
 | 07 | [`07_sum_and_average_of_digits.py`](./07_sum_and_average_of_digits.py) | Data Analytics | Extract digits from a string and calculate their sum and average. |
 | 08 | [`08_sales_data_aggregator.py`](./08_sales_data_aggregator.py) | Data Analytics | Aggregate transactional data, calculate revenue KPIs, and evaluate categories. |
 | 09 | [`09_data_imputation_pipeline.py`](./09_data_imputation_pipeline.py) | Data Cleaning & Hygiene | Impute missing values and handle outliers in raw datasets. |
+| 10 | [`10_min_max_scaler.py`](./10_min_max_scaler.py) | Machine Learning Prep | Normalize numeric feature sets to a 0-1 range using Min-Max scaling. |
 ---
 
 ## 🛠️ Standards & Structure
