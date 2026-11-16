@@ -18,6 +18,7 @@ A curated collection of Python exercises, algorithmic logic challenges, and auto
 | 10 | [`10_min_max_scaler.py`](./10_min_max_scaler.py) | Machine Learning Prep | Normalize numeric feature sets to a 0-1 range using Min-Max scaling. |
 | 11 | [`11_pandas_dataframe_summary.py`](./11_pandas_dataframe_summary.py) | Data Analytics & Pandas | Clean datasets and compute regional aggregations using Pandas DataFrames. |
 | 12 | [`12_scikit_learn_linear_regression.py`](./12_scikit_learn_linear_regression.py) | Machine Learning | Train a linear regression model and generate predictions using Scikit-Learn. |
+| 13 | [`13_seaborn_data_visualization.py`](./13_seaborn_data_visualization.py) | Exploratory Data Analysis | Generate clean visual analytics and scatter plots using Seaborn. |
 ---
 
 ## 🛠️ Standards & Structure
