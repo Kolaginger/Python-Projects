@@ -8,6 +8,7 @@ A curated collection of Python exercises, algorithmic logic challenges, and auto
 | :--- | :--- | :--- | :--- |
 | 01 | [`practice_solution.py`](./practice_solution.py) | Strings & Lists | Remove duplicate characters from a string while preserving original order. |
 | 02 | [`02_palindrome_checker.py`](./02_palindrome_checker.py) | String Slicing | Check whether a string reads the same forwards and backwards. |
+| 03 | [`03_special_character_replacer.py`](./03_special_character_replacer.py) | String Sanitization | Replace all special punctuation symbols with a target character. |
 ---
 
 ## 🛠️ Standards & Structure
