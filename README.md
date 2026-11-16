@@ -10,6 +10,7 @@ A curated collection of Python exercises, algorithmic logic challenges, and auto
 | 02 | [`02_palindrome_checker.py`](./02_palindrome_checker.py) | String Slicing | Check whether a string reads the same forwards and backwards. |
 | 03 | [`03_special_character_replacer.py`](./03_special_character_replacer.py) | String Sanitization | Replace all special punctuation symbols with a target character. |
 | 04 | [`04_extract_integers.py`](./04_extract_integers.py) | Data Extraction | Extract and combine only numeric digits from a mixed string. |
+| 05 | [`05_remove_special_characters.py`](./05_remove_special_characters.py) | NLP Data Cleaning | Remove all special symbols and punctuation for text processing. |
 ---
 
 ## 🛠️ Standards & Structure
